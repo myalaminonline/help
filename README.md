@@ -1,2 +1,2 @@
-# help
-Alamin Online > Help
+# Alamin Online > Help
+https://alaminonline.com/help
